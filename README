@@ -1,0 +1,5 @@
+Python-Streamer
+This is a simple code which helps us to stream audio files over a LAN network.
+Its written in Python and requires the library "pygst" version "0.10".
+Program shows how a client program can access a file provided by the server.
+NOTE: Execute the server code first.
